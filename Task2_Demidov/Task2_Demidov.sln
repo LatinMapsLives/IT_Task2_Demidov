@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Demidov", "Task2_Demidov.csproj", "{DCE7A237-EF47-4AA2-88D7-64D9442BEEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Demidov_Core", "..\Task2_Demidov_Core\Task2_Demidov_Core.csproj", "{2A195CE1-1C82-405E-BC65-23D7F40D4DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE7A237-EF47-4AA2-88D7-64D9442BEEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE7A237-EF47-4AA2-88D7-64D9442BEEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE7A237-EF47-4AA2-88D7-64D9442BEEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE7A237-EF47-4AA2-88D7-64D9442BEEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A195CE1-1C82-405E-BC65-23D7F40D4DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A195CE1-1C82-405E-BC65-23D7F40D4DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A195CE1-1C82-405E-BC65-23D7F40D4DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A195CE1-1C82-405E-BC65-23D7F40D4DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DA8A9B-C379-4D83-B9B6-BC5613C8F0EE}
+	EndGlobalSection
+EndGlobal
